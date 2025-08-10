@@ -1,0 +1,3 @@
+**/*.exe
+**/build
+**/data.json

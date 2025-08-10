@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "package_id": "Yourgame.GameLibs.Steam",
+        "version": "1.0",
+        "authors": "You",
+        "project_url": "https://github.com/GatekeeperModding/Tools",
+        "description": "Reference libraries for Yourgame modding",
+        "release_notes": "some stuff"
+    },
+    "game": {
+        "game_path": "path/to/your/game",
+        "exe_name": "Yourgame",
+        "unity_libs_path": "path/to/your/game/BepInEx/unity-libs"
+    },
+    "programs": {
+        "cpp2il_path": "path/to/cpp2il",
+        "il2cppinterop_path": "path/to/il2cppinterop"
+    }
+}
