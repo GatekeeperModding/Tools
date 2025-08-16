@@ -9,3 +9,6 @@ An example can be found in `example.config.json`
 
 Copies the version of the current .csproj and inserts it into the thunderstore.toml<br>
 It is intended to be used as postbuild task in dev environments 
+
+## Meta Provider
+Outputs "$version|$nuget_package_name|$package_name|$namspace" for use in github action version checking
